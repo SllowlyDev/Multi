@@ -12,4 +12,4 @@ $ git clone https://github.com/XyraaDev52/Multi
 
 $ cd Multi
 
-$ python multi.py
+$ python run.py
